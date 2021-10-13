@@ -35,8 +35,8 @@ I'm Geonsang Jo, Front-End developer from :kr: Korea. <br/>
 
 <div align=center>
 
-<img width="380"  src="https://github-readme-stats.vercel.app/api?username=hyesungoh&show_icons=true&count_private=true&theme=dracula" />
+<img width="380"  src="https://github-readme-stats.vercel.app/api?username=Jogeonsang&show_icons=true&count_private=true&theme=dracula" />
 
-<img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=hyesungoh&theme=dracula&date_format=%5BY%20%5DM%20j">
+<img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=Jogeonsang&theme=dracula&date_format=%5BY%20%5DM%20j">
 
 </div>
