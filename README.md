@@ -2,7 +2,7 @@
 
 <p align="left">
 
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Hyesungoh</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Geonsang Jo</b>
 
 </p>
 
@@ -29,7 +29,9 @@ I'm Geonsang Jo, Front-End developer from :kr: Korea. <br/>
 
 <h2>👨‍👩‍👧‍👦 &nbsp;Contributed at</h2>
 
-<a style="color:#ffb86c" href="https://github.com/JaeYeopHan/gatsby-starter-bee" target="_blank">&nbsp;&nbsp;&nbsp;🐝 &nbsp;gatsby-starter-bee</a>
+<a style="color:#ffb86c" href="https://github.com/Lubycon/clelab-frontend" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;Clelab</a><br/>
+<a style="color:#ffb86c" href="https://github.com/Lubycon/lubycon-frontend-libraries" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;lubycon-frontend-libraries</a>
+
 
 <h2>📈 &nbsp;Some Stats</h2>
 
